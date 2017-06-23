@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-date-picker-widget",
+    "name": "pawelkania/yii2-date-picker-widget",
     "description": "Bootstrap DatePicker widget for Yii2.",
     "type": "yii2-extension",
     "keywords": [
@@ -28,7 +28,7 @@
     "require": {
         "yiisoft/yii2": ">=2.0.9",
         "yiisoft/yii2-bootstrap": "*",
-        "bower-asset/bootstrap-datepicker": "1.4.0"
+        "bower-asset/bootstrap-datepicker": "v1.7.0-RC3"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
